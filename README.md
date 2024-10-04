@@ -1,5 +1,5 @@
 # Documentation
 
-*   Candy.
-*   Gum.
-*   Booze.
+*   Mise en place
+*   Installation
+*   Blabla
